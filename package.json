@@ -1,0 +1,24 @@
+{
+  "name": "exoplayer-amazon-port",
+  "version": "1.0.0",
+  "description": "Amazon expoplayer port",
+  "main": "core_settings.gradle",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/XiteTV/exoplayer-amazon-port.git"
+  },
+  "keywords": [
+    "amazon",
+    "exoplayer",
+    "java"
+  ],
+  "author": "Ruen",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/XiteTV/exoplayer-amazon-port/issues"
+  },
+  "homepage": "https://github.com/XiteTV/exoplayer-amazon-port#readme"
+}
