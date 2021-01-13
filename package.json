@@ -1,0 +1,8 @@
+{
+  "name": "exoplayer-amazon-port",
+  "version": "1.0.0",
+  "main": "index.js",
+  "repository": "git@github.com:XiteTV/exoplayer-amazon-port.git",
+  "author": "Aakash Sigdel <aakash@xite.com>",
+  "license": "MIT"
+}
