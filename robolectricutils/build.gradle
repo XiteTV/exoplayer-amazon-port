@@ -23,6 +23,12 @@ dependencies {
     implementation project(modulePrefix + 'testutils')
 }
 
+android {
+    defaultConfig {
+        multiDexEnabled true
+    }
+}
+
 ext {
     javadocTitle = 'Robolectric utils'
 }
