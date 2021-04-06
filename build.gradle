@@ -22,6 +22,11 @@ buildscript {
         classpath 'com.google.android.gms:strict-version-matcher-plugin:1.2.1'
     }
 }
+android {
+    defaultConfig {
+        multiDexEnabled true
+    }
+}
 allprojects {
     repositories {
         google()
